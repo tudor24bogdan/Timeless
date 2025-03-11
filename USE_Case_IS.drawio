@@ -1,0 +1,103 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36" version="24.8.4">
+  <diagram name="Page-1" id="WmJR1S-ph6hKWeaSapdm">
+    <mxGraphModel dx="1050" dy="557" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="zKqwj-Uou0jCGcT-ToWK-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="zKqwj-Uou0jCGcT-ToWK-1" target="zKqwj-Uou0jCGcT-ToWK-7">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="370" y="220" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zKqwj-Uou0jCGcT-ToWK-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="zKqwj-Uou0jCGcT-ToWK-1" target="zKqwj-Uou0jCGcT-ToWK-32">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="200" y="340" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zKqwj-Uou0jCGcT-ToWK-1" value="User&amp;nbsp;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="170" y="190" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zKqwj-Uou0jCGcT-ToWK-3" value="Posteaza ceas de vanzare&amp;nbsp;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="50" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="zKqwj-Uou0jCGcT-ToWK-5" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="zKqwj-Uou0jCGcT-ToWK-1" target="zKqwj-Uou0jCGcT-ToWK-3">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="320" as="sourcePoint" />
+            <mxPoint x="450" y="270" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="260" y="150" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zKqwj-Uou0jCGcT-ToWK-7" value="Plaseaza comanda&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="180" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="zKqwj-Uou0jCGcT-ToWK-8" value="Primeste comanda&amp;nbsp;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="500" y="50" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="zKqwj-Uou0jCGcT-ToWK-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="zKqwj-Uou0jCGcT-ToWK-9" target="zKqwj-Uou0jCGcT-ToWK-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zKqwj-Uou0jCGcT-ToWK-9" value="Order manager&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="710" y="140" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zKqwj-Uou0jCGcT-ToWK-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="zKqwj-Uou0jCGcT-ToWK-17" target="zKqwj-Uou0jCGcT-ToWK-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zKqwj-Uou0jCGcT-ToWK-17" value="Trimite comanda la curier/verificare&amp;nbsp;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="500" y="200" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="zKqwj-Uou0jCGcT-ToWK-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.625;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="zKqwj-Uou0jCGcT-ToWK-9" target="zKqwj-Uou0jCGcT-ToWK-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zKqwj-Uou0jCGcT-ToWK-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="zKqwj-Uou0jCGcT-ToWK-19" target="zKqwj-Uou0jCGcT-ToWK-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zKqwj-Uou0jCGcT-ToWK-19" value="Expert ceasuri" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="730" y="320" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zKqwj-Uou0jCGcT-ToWK-21" value="Primeste comanda pentru verificare" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="330" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="zKqwj-Uou0jCGcT-ToWK-24" value="Trimite comanda verificata mai departe clientului&amp;nbsp;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="430" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="zKqwj-Uou0jCGcT-ToWK-29" value="" style="endArrow=classic;html=1;rounded=0;entryX=1.023;entryY=0.398;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="zKqwj-Uou0jCGcT-ToWK-19" target="zKqwj-Uou0jCGcT-ToWK-24">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="520" as="sourcePoint" />
+            <mxPoint x="320" y="580" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zKqwj-Uou0jCGcT-ToWK-30" value="Returneaza comanda in caz ca verificarea esuaza&amp;nbsp;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="470" y="530" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="zKqwj-Uou0jCGcT-ToWK-31" value="" style="endArrow=classic;html=1;rounded=0;entryX=1;entryY=0.375;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="zKqwj-Uou0jCGcT-ToWK-19" target="zKqwj-Uou0jCGcT-ToWK-30">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="740" y="372" as="sourcePoint" />
+            <mxPoint x="613" y="472" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zKqwj-Uou0jCGcT-ToWK-32" value="Primeste comanda plasata&amp;nbsp;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="300" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="zKqwj-Uou0jCGcT-ToWK-34" value="Primeste returul articolului vandut&amp;nbsp;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="410" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="zKqwj-Uou0jCGcT-ToWK-37" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.043;entryY=0.738;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="zKqwj-Uou0jCGcT-ToWK-1" target="zKqwj-Uou0jCGcT-ToWK-34">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="320" as="sourcePoint" />
+            <mxPoint x="450" y="270" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zKqwj-Uou0jCGcT-ToWK-40" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.953;exitY=0.383;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="zKqwj-Uou0jCGcT-ToWK-7">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="320" as="sourcePoint" />
+            <mxPoint x="670" y="170" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
